@@ -75,10 +75,10 @@ Table des matières Module 3
 <p align="left"><a href="https://github.com/franckdun/Open_Projet-3_Module-2"> <img src="https://img.shields.io/badge/Go%20to-MODULE_2-0B8043"> </a></p>
 	
 	15h	🥑 2 Créez des animations CSS modernes 				>📌🖋📌🖋📌🖋
-<p align="left"><a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github?archived-source=2342361"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-0B8043"> </a></p>
+<p align="left"><a href="https://github.com/franckdun/Open_Projet-3_Module-3"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-0B8043"> </a></p>
 	
 	6h	🍓 3 Gérez du code avec Git et GitHub 				>📌>🖋>📌>🖋>📌🖋
-<p align="left"><a href="https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal "> <img src="https://img.shields.io/badge/Go%20to-MODULE_4-0B8043"> </a></p>
+<p align="left"><a href="https://github.com/franckdun/Open_Projet-3_Module-4"> <img src="https://img.shields.io/badge/Go%20to-MODULE_4-0B8043"> </a></p>
 	
 	6h	🍓 4 Apprenez à utiliser la ligne de commande dans un terminal 	>📌🖋📌🖋
 
@@ -124,16 +124,3 @@ Acquisition
 </details>
 
 ---		
-
-
-
-
-
-
-
-
-
-
-
-
-
