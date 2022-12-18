@@ -66,24 +66,8 @@ Table des matières Module 3
 ```
     Certificat de réussite 
 ```
-
-<details><summary><p align="left"><em><strong> suite Modules 1, 2, 3, 4.</strong></em></p></summary>
-
-<p align="left"><a href="https://github.com/franckdun/Open_Projet-3_Module-1"> <img src="https://img.shields.io/badge/Go%20to-MODULE_1-0B8043"> </a></p>	
-
-	15h	🥑 1 Simplifiez-vous le CSS avec Sass 		     >📌>🖋>📌>🖋📌🖋
-<p align="left"><a href="https://github.com/franckdun/Open_Projet-3_Module-2"> <img src="https://img.shields.io/badge/Go%20to-MODULE_2-0B8043"> </a></p>
-	
-	15h	🥑 2 Créez des animations CSS modernes 				>📌🖋📌🖋📌🖋
-<p align="left"><a href="https://github.com/franckdun/Open_Projet-3_Module-3"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-0B8043"> </a></p>
-	
-	6h	🍓 3 Gérez du code avec Git et GitHub 				>📌>🖋>📌>🖋>📌🖋
-<p align="left"><a href="https://github.com/franckdun/Open_Projet-3_Module-4"> <img src="https://img.shields.io/badge/Go%20to-MODULE_4-0B8043"> </a></p>
-	
-	6h	🍓 4 Apprenez à utiliser la ligne de commande dans un terminal 	>📌🖋📌🖋
-
-
-</details>
+<summary><p align="left"><em><strong> suite Modules 1, 2, 3, 4.</strong></em></p></summary>
+<p align="center"><a href="https://github.com/franckdun/Open_Projet-3_Module-1"> <img src="https://img.shields.io/badge/Go%20to-MODULE_1-0B8043"> </a><a href="https://github.com/franckdun/Open_Projet-3_Module-2"> <img src="https://img.shields.io/badge/Go%20to-MODULE_2-0B8043"> </a><a href="https://github.com/franckdun/Open_Projet-3_Module-3"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-0B8043"> </a><a href="https://github.com/franckdun/Open_Projet-3_Module-4"> <img src="https://img.shields.io/badge/Go%20to-MODULE_4-0B8043"> </a></p>
 	
 <!-- ORGANISATION ///////////////////////////////////////////////////////////////////////////////////////////////////////////// -->	
 	
