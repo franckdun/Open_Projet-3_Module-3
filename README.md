@@ -22,7 +22,7 @@
 
 ## FGHIJ - Dynamisez une page web avec des animations CSS
 	
-<p align="left"><a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github?archived-source=2342361"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-0B8043"> </a></p>
+<p align="center"><a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github?archived-source=2342361"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3 Gérez du code avec Git et GitHub-0B8043"> </a></p>
 	
 	6h	🍓 3 Gérez du code avec Git et GitHub 				>📌>🖋>📌>🖋>📌🖋	
 	
